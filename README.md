@@ -2,7 +2,7 @@
 # Dom's **Arch** Setup
 **Bash** script that recreates my ArchLinux setup in minutes.
 
-# Before Running Make Please Keep In Mind That...
+# Before Running Please Keep In Mind That...
 * This script was written with archlinux in mind, it might not work on manjaro or other arch-based distros"
 * It is recomended to use a fresh archlinux installation (minimal installation if used archinstall)
 * An internet connection is mandatory while running the script.
