@@ -4,11 +4,12 @@
 
 # How To Run:
 Open your prefered terminal emulator and enter the following commands.
-`git clone https://github.com/DominicusPurple/Doms-Arch-Setup`
 
-`cd Doms-Arch-Setup`
+* `git clone https://github.com/DominicusPurple/Doms-Arch-Setup`
 
-`./install.sh`
+* `cd Doms-Arch-Setup`
+
+* `./install.sh`
 
 # Screenshots
 COMING SOON
