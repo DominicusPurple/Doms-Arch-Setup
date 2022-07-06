@@ -15,11 +15,9 @@
 Open your prefered terminal emulator and enter the following commands.
 
 * `git clone https://github.com/DominicusPurple/Doms-Arch-Setup.git`
-
 * `cd Doms-Arch-Setup`
-
 * `./install.sh`
-* 
+
 After install.sh finished and your computer has restarted, open your prefered terminal emulator once again and enter the following commands.
 * ``cd Doms-Arch-Setup``
 * ``./after-install.sh``
