@@ -10,6 +10,7 @@
 * If you are on root or used sudo to execute this script do not proceed with installation, instead execute this script without sudo on a user account with sudo privileges!
 * You might need to type your password sometimes.
 * All pacman and pacaur operations will use --noconfirm so make sure you want everything here (pacaur operations also use --noedit)
+* Applications like firefox and neofetch are not installed by the script. you will have to install them yourself (if you want them)
 
 # How To Use:
 Open your prefered terminal emulator and enter the following commands.
@@ -21,6 +22,8 @@ Open your prefered terminal emulator and enter the following commands.
 After install.sh finished and your computer has restarted, open your prefered terminal emulator once again and enter the following commands.
 * ``cd Doms-Arch-Setup``
 * ``./after-install.sh``
+
+Follow the steps given there and your setup will look like mine.
 
 # Screenshots
 COMING SOON
