@@ -11,7 +11,7 @@
 * You might need to type your password sometimes.
 * All pacman and pacaur operations will use --noconfirm so make sure you want everything here (pacaur operations also use --noedit)
 
-# How To Run:
+# How To Use:
 Open your prefered terminal emulator and enter the following commands.
 
 * `git clone https://github.com/DominicusPurple/Doms-Arch-Setup.git`
@@ -19,6 +19,10 @@ Open your prefered terminal emulator and enter the following commands.
 * `cd Doms-Arch-Setup`
 
 * `./install.sh`
+* 
+After install.sh finished and your computer has restarted, open your prefered terminal emulator once again and enter the following commands.
+* ``cd Doms-Arch-Setup``
+* ``./after-install.sh``
 
 # Screenshots
 COMING SOON
