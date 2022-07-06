@@ -9,7 +9,7 @@
 * Please dont move/delete any files or folders or the script will break. If files have been deleted, repeat the process of cloning the repo.
 * If you are on root or used sudo to execute this script do not proceed with installation, instead execute this script without sudo on a user account with sudo privileges!
 * You might need to type your password sometimes.
-* All pacman and pacaur operations will use --noconfirm so make sure you want everything here
+* All pacman and pacaur operations will use --noconfirm so make sure you want everything here (pacaur operations also use --noedit)
 
 # How To Run:
 Open your prefered terminal emulator and enter the following commands.
