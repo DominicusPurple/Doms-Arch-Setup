@@ -13,13 +13,13 @@
 * Applications like firefox and neofetch are not installed by the script. you will have to install them yourself (if you want them)
 
 # How To Use:
-Open your prefered terminal emulator and enter the following commands.
+Enter the following commands.
 
 * `git clone https://github.com/DominicusPurple/Doms-Arch-Setup.git`
 * `cd Doms-Arch-Setup`
 * `./install.sh`
 
-After install.sh finished and your computer has restarted, open your prefered terminal emulator once again and enter the following commands.
+After install.sh finished and your computer has restarted, enter the following commands.
 * ``cd Doms-Arch-Setup``
 * ``./after-install.sh``
 
