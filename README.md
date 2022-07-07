@@ -19,8 +19,6 @@ Enter the following commands.
 * `cd Doms-Arch-Setup`
 * `./install.sh`
 
-For my convinience, i added a function that installs almost all the applications i use, but you will be asked if you want to call the function or not.
-
 After install.sh finished and your computer has restarted, enter the following commands.
 * ``cd Doms-Arch-Setup``
 * ``./after-install.sh``
