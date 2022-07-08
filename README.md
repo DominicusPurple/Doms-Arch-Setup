@@ -19,7 +19,7 @@ Enter the following commands.
 * `cd Doms-Arch-Setup`
 * `./install.sh`
 
-For my convenience, i added an option to install almost all the applications i use, If you want to install them use `./install.sh extra_apps` instead of `install.sh`
+For my convenience, i added an option to install almost all the applications i use, If you want to install them use `./install.sh extra_apps` instead of `./install.sh`
 
 After install.sh finished and your computer has restarted, enter the following commands.
 * ``cd Doms-Arch-Setup``
