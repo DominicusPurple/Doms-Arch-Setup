@@ -3,14 +3,13 @@
 **Bash** script that recreates my ArchLinux setup in minutes.
 
 # Before Running Please Keep In Mind That...
-* This script was written with archlinux in mind, it might not work on manjaro or other arch-based distros"
-* It is recomended to use a fresh archlinux installation (minimal installation if used archinstall)
+* This script was written with ArchLinux in mind, it might not work on Manjaro or other Arch-Based Distros"
+* It is recomended to use a fresh ArchLinux installation (minimal installation if used archinstall)
 * An internet connection is mandatory while running the script.
 * Please dont move/delete any files or folders or the script will break. If files have been deleted, repeat the process of cloning the repo.
-* If you are on root or used sudo to execute this script do not proceed with installation, instead execute this script without sudo on a user account with sudo privileges!
+* This script MUST NOT be run using Sudo or Root, Though the user needs to have sudo privileges.
 * You might need to type your password sometimes.
-* All pacman and pacaur operations will use --noconfirm so make sure you want everything here (pacaur operations also use --noedit)
-* Applications like firefox and neofetch are not installed by the script. you will have to install them yourself (if you want them)
+* All PacMan and PacAUR operations will use --noconfirm so make sure you want everything here (PacAUR operations also use --noedit)
 
 # How To Use:
 Enter the following commands.
@@ -19,7 +18,7 @@ Enter the following commands.
 * `cd Doms-Arch-Setup`
 * `./install.sh`
 
-For my convenience, i added an option to install almost all the applications i use, If you want to install them use `./install.sh extra_apps` instead of `./install.sh`
+For my convenience, i added an option to install almost all the applications i use, If you want to install them use `./install.sh extra_apps` instead of `./install.sh`.
 
 After install.sh finished and your computer has restarted, enter the following commands.
 * ``cd Doms-Arch-Setup``
