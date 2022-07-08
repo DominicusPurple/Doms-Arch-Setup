@@ -6,7 +6,7 @@
 * This script was written with ArchLinux in mind, it might not work on Manjaro or other Arch-Based Distros"
 * It is recomended to use a fresh ArchLinux installation (minimal installation if used archinstall)
 * An internet connection is mandatory while running the script.
-* Please dont move/delete any files or folders or the script will break. If files have been deleted, repeat the process of cloning the repo.
+* Please dont move or delete any files or folders or the script will break.
 * This script MUST NOT be run using Sudo or Root, Though the user needs to have sudo privileges.
 * You might need to type your password sometimes.
 * All PacMan and PacAUR operations will use --noconfirm so make sure you want everything here (PacAUR operations also use --noedit)
